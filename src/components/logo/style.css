@@ -1,0 +1,11 @@
+.logozoha a{
+    text-align: center;
+    font-size: 50px;
+    display: block;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    color: rgba(188, 240, 0, 0.98);
+}
+.logozoha{
+    padding: 50px 0;
+}

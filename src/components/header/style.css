@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.navehed a{
+    text-decoration: none;
+    color: aqua;
+    margin: 0 10px;
+}
+.navehed a:hover{
+    color: blue;
+}
+.navehed{
+    margin: 10px 0;
+}
